@@ -1,7 +1,7 @@
 <h1 align="center">Hey Everyone 👋, I'm Cabrel Ngako</h1>
 
 <div align="center">
-  <img src="https://github.com/cabrel92/cabrel92/blob/main/bongo.png" alt="DevOps">
+  <img src="https://github.com/cabrel92/cabrel92/blob/main/cab.jpg" alt="DevOps">
 </div>
 
 <h3 align="center">Développeur Python passionné avec 4 ans d’expérience, je conçois des applications robustes et sécurisées en m’appuyant sur des pratiques DevOps. Je maîtrise Docker, Kubernetes, ainsi que les outils d’Infrastructure as Code (Terraform, Ansible) et les services cloud AWS (EC2, S3, Lambda). J’intègre également des outils de sécurité dans les pipelines CI/CD pour garantir des livrables fiables (Jenkins, Github Actions, Gitlab).
